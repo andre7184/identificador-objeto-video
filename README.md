@@ -24,7 +24,7 @@ pip install opencv-python numpy
 - cocopt.names (Para o modelo YOLOv4) presente no repositório
 - main.py (Para o projeto) presente no repositório
 - yolov4.cfg (Para o modelo YOLOv4) presente no repositório
-- yolov4.weights (Para o modelo YOLOv4) donwload aqui: https://drive.usercontent.google.com/download?id=1SdOCmpK6p8vlPITMzUwt8PPMgofo5A_i&export=download&authuser=0&confirm=t&uuid=96cfa7c0-79fb-486d-ab1c-36a738c8edfd&at=AN_67v1CC5HScUsLswEbZ74zhgib:1729781060444
+- yolov4.weights (Para o modelo YOLOv4) donwload aqui: https://master.dl.sourceforge.net/project/darknet-yolo.mirror/darknet_yolo_v4_pre/yolov4.weights?viasf=1
 - yolov4-tiny.cfg (Para o modelo YOLOv4-Tiny) presente no repositório
 - yolov4-tiny.weights (Para o modelo YOLOv4-Tiny) presente no repositório
 
