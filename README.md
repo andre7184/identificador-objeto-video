@@ -12,6 +12,35 @@ Este projeto utiliza o modelo YOLOv4-Tiny para detectar objetos em um vídeo. Ab
 
 pip install opencv-python numpy
 
--- cv2: Biblioteca OpenCV para processamento de imagens e vídeos.
--- time: Biblioteca para medir o tempo de execução.
--- numpy: Biblioteca para manipulação de arrays.
+## O que cada biblioteca faz
+- cv2: Biblioteca OpenCV para processamento de imagens e vídeos.
+- time: Biblioteca para medir o tempo de execução.
+- numpy: Biblioteca para manipulação de arrays.
+
+## arquivos necessrios
+
+- animal.mp4 (Para o video) presente no repositório
+- coco.names (Para o modelo YOLOv4) presente no repositório
+- cocopt.names (Para o modelo YOLOv4) presente no repositório
+- main.py (Para o projeto) presente no repositório
+- yolov4.cfg (Para o modelo YOLOv4) presente no repositório
+- yolov4.weights (Para o modelo YOLOv4) donwload aqui: https://drive.google.com/file/d/1N8qYJ6z3S4sZnZk4iXWdFfXxQxk9w0Kc/view?usp=sharing
+- yolov4-tiny.cfg (Para o modelo YOLOv4-Tiny) presente no repositório
+- yolov4-tiny.weights (Para o modelo YOLOv4-Tiny) presente no repositório
+
+## Tecnologias usadas
+
+- python
+- opencv
+- numpy
+
+## Referências
+
+- [YOLOv4](https://github.com/AlexeyAB/darknet)
+- [YOLOv4-Tiny](https://github.com/ultralytics/yolov4-tiny)
+- [OpenCV](https://github.com/opencv/opencv)
+- [NumPy](https://numpy.org/)
+
+
+
+
