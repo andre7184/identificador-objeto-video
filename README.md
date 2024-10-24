@@ -34,9 +34,11 @@ pip install opencv-python numpy
 - opencv
 - numpy
 
-## Referências
+## Referências youtube
 
-- [YOLOv4](https://github.com/AlexeyAB/darknet)
+- [YOLOv4](https://www.youtube.com/watch?v=0Iy8VtTmWQI)
+
+## Referências github
 - [YOLOv4-Tiny](https://github.com/ultralytics/yolov4-tiny)
 - [OpenCV](https://github.com/opencv/opencv)
 - [NumPy](https://numpy.org/)
